@@ -1,7 +1,7 @@
 <h2 align="center"> Hi 👋 , It'Z me  Takkudu<br/></h2> 
 <h3 align="center">Learning.... 🧑‍💻. Hopefully will get there some day.<br> <br>
 
-   <a href="https://telegra.ph/file/138db962893023bd9885a.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/98111dddda5cdfc10bc4b.jpg?raw=true)</a>
+   <a href="https://telegra.ph/file/138db962893023bd9885a.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/138db962893023bd9885a.jpg?raw=true)</a>
    
    
    
