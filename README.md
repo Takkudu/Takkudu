@@ -1,4 +1,6 @@
-<h2 align="center"> Hi 👋 , It'Z me  Takkudu<br/></h2> 
+<h2 align="center"> Hi 👋 , It'Z me  Takkudu<br/></h2>
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning.... 🧑‍💻. Hopefully will get there some day.)
+</p>
 <h3 align="center">Learning.... 🧑‍💻. Hopefully will get there some day.<br> <br>
 
    <a href="https://telegra.ph/file/138db962893023bd9885a.jpg" target="_blank" rel="download org image">![alt README header](https://telegra.ph/file/605bf4fdea60c9923cab1.jpg?raw=true)</a>
