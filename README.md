@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋 , It'Z me  Takkudu<br/></h2>
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Learning.... 🧑‍💻. Hopefully will get there some day.)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines= Learning....+ 🧑‍💻.+ Hopefully+will+get+there+some+day:,)
 </p>
 <h3 align="center">Learning.... 🧑‍💻. Hopefully will get there some day.<br> <br>
 
